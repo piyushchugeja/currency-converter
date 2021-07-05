@@ -7,5 +7,5 @@
   - KWD
   - EUR
   - GBP
-- This was a college end semester project so it is a small scale one.
-- The main file <code>currencyConverter</code> and <code>currencies</code> is a package which contains the functions for conversion.
+- This was a college end semester project so it is small-scale.
+- The main file is <code>currencyConverter</code> and <code>currencies</code> is a package which contains the functions for conversion.
